@@ -1,0 +1,7 @@
+1. To Compile:
+We use Java to organize our code, and the main() function is located in runme.java
+
+2. To Use:
+Useage: runme [input_filename] [output_filename] {pick up type}
+
+The program could take at most 3 arguments, and the last argument is to define which strategy we use to pick up next 2 time-slots(more information could be located in our report) while g>=3, if parameter_3 = 1, it'll apply stategy 2, otherwise strategy 1 will be deployed, which is known as "random selection".
